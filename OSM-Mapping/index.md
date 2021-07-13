@@ -1,5 +1,5 @@
 # OSM Mapping
 
-- [Introduction](./introduction/index.md)
-- [Proposed Solution](./proposed-solution/index.md)
-- [Reference Link](./references/index.md)
+- [Introduction](./OSM-Mapping/introduction/index.md)
+- [Proposed Solution](./OSM-Mapping/proposed-solution/index.md)
+- [Reference Link](./OSM-Mapping/references/index.md)
