@@ -1,5 +1,5 @@
 <!-- 
-Thanks for contributing to Giga_NFT_2.0! 
+Thanks for contributing to Giga! 
 Please fill out the sections below to help us review your pull request. 
 -->
 
