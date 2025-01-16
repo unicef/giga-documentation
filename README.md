@@ -123,7 +123,7 @@ We welcome contributions to our repositories! Whether it's fixing a bug, adding 
 
 To go through the contribtution guidelines in detail you can visit the following link. 
 
-[Click here for the detailed Contribution guidelines](https://github.com/unicef/giga-blocks-documentation/blob/main/versioned_docs/version-1.0/Contribution-Guidelines.md)
+[Click here for the detailed Contribution guidelines](https://github.com/unicef/giga-documentation/blob/master/.github/CONTRIBUTING.md)
 
 ---
 
@@ -131,7 +131,7 @@ To go through the contribtution guidelines in detail you can visit the following
 
 At Giga, we're committed to maintaining an environment that's respectful, inclusive, and harassment-free for everyone involved in our project and community. We welcome contributors and participants from diverse backgrounds and pledge to uphold the standards.
 
-[Click here for the detailed Code of Conduct.](https://github.com/unicef/giga-blocks-documentation/blob/main/versioned_docs/version-1.0/Code-of-Conduct.md) 
+[Click here for the detailed Code of Conduct.](https://github.com/unicef/giga-documentation/blob/master/.github/CODE_OF_CONDUCT.md) 
 
 ---
 
