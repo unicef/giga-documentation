@@ -35,12 +35,7 @@ To contribute code changes:
 
 ## Contributing with an Issue
 
-If you encounter a bug but aren't sure how to fix it or submit a pull request, you can create an issue. Issues serve as avenues for bug reports, feedback, and general discussions within the Giga NFT2.0 GitHub repositories.
-
-## Repositories
-
-- [Giga NFT2.0 Main Repository](insert main repository link)
-- [Additional Giga NFT2.0 Repositories](list other relevant repositories with links)
+If you encounter a bug but aren't sure how to fix it or submit a pull request, you can create an issue. Issues serve as avenues for bug reports, feedback, and general discussions within the Giga NFT2.0 GitHub repositories.)
 
 ## Other Ways to Contribute
 
@@ -51,4 +46,4 @@ Beyond code contributions:
 - **Designs:** If you're passionate about UI/UX, animations, graphics, tutorials, etc., contact us to create visuals for the Giga community via [giga@unicef.org](mailto:giga@unicef.org).
 
 ## Connect with Giga Contributors
-Connect with fellow contributors via our Discord channel to engage with the Giga community. [(Insert Discord Invitation Link)](https://discord.gg/t4vgpvE7)
+Connect with fellow contributors via our Discord channel to engage with the Giga community. [(Insert Discord Invitation Link)](https://discord.gg/NStBwE7kyv)
