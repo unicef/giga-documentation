@@ -46,4 +46,4 @@ Beyond code contributions:
 - **Designs:** If you're passionate about UI/UX, animations, graphics, tutorials, etc., contact us to create visuals for the Giga community via [giga@unicef.org](mailto:giga@unicef.org).
 
 ## Connect with Giga Contributors
-Connect with fellow contributors via our Discord channel to engage with the Giga community. [(Insert Discord Invitation Link)](https://discord.gg/NStBwE7kyv)
+Connect with fellow contributors via our Discord channel to engage with the Giga community. [(Discord Invitation Link)](https://discord.gg/NStBwE7kyv)
